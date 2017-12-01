@@ -1,0 +1,5 @@
+On Eclipse or terminal
+javac *.java
+java RunQuery
+from console enter queries
+
